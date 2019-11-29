@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="All Box:"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/txt_boxes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ddd"
+        android:padding="4dp"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:id="@+id/btn_export"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|end"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="8dp"
+        android:text="Export" />
+
+    <Button
+        android:id="@+id/btn_close"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|end"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="8dp"
+        android:text="Close" />
+</LinearLayout>
