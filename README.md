@@ -11,3 +11,9 @@ Read before using app:
 - Click anywhere on screen to add box
 - You can drag and drop any box on screen
 - Long click on any box to change its size by slider
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044781.png" alt="Screenshot" /></p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044803.png" alt="Screenshot" /></p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044807.png" alt="Screenshot" /></p>
