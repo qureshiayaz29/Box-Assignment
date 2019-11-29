@@ -14,6 +14,6 @@ Read before using app:
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044781.png" alt="Screenshot" /></p>
-<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044803.png" alt="Screenshot" /></p>
-<p><img src="https://github.com/qureshiayaz29/Box-Assignment/sc/Screenshot_1575044807.png" alt="Screenshot" /></p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/blob/master/sc/Screenshot_1575044781.png" alt="Screenshot" /></p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/blob/master/sc/Screenshot_1575044803.png" alt="Screenshot" /></p>
+<p><img src="https://github.com/qureshiayaz29/Box-Assignment/blob/master/sc/Screenshot_1575044807.png" alt="Screenshot" /></p>
